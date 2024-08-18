@@ -46,6 +46,8 @@ if __name__ == "__main__":
             CLIENT.join_chat("STORM_CHATZ")
             CLIENT.join_chat("STORM_TECHH")
             CLIENT.join_chat("TORNADO_TRIBE")
+            CLIENT.join_chat("BOT_DEVEPOLING")
+            CLIENT.join_chat("rasedidstore")            
             print(f"ꜱᴛᴏʀᴍ ꜱᴛᴀʀᴛᴇᴅ ᴀꜱ{i+1}")
             print(f"ʙᴏᴏᴛᴇᴅ/ꜱᴛᴀʀᴛᴇᴅ {CLIENT.me.first_name} 🎉")
         except Exception as e:
